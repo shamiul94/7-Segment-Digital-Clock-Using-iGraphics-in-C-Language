@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1462820505 source:c:\users\shamiul93\desktop\igraphics\myigraphics\imain.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"iGraphics.h"
+
+1462108168 c:\users\shamiul93\desktop\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462889636 source:c:\users\shamiul93\desktop\offline 2 done\myigraphics\imain.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"iGraphics.h"
+
+1462108168 c:\users\shamiul93\desktop\offline 2 done\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462960789 source:c:\users\shamiul93\desktop\digital watch- 1505038\myigraphics\imain.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"iGraphics.h"
+
+1462108168 c:\users\shamiul93\desktop\digital watch- 1505038\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
