@@ -10,4 +10,4 @@ Installing process is given in the pdfs and docs. Use Codeblocks and windows mac
 ![Here is a screenshot of the clock](scr.png "Digital Watch")
 
 ### Appology
-I was a first semester noob doing his second assignment in his life. I know the code quality of this project is the worst. I am sorry for the inconvenience. I didn't know better.
+I was a first semester noob completing the second assignment of his life. I know the code quality of this project is the worst. I am sorry for the inconvenience. I didn't know better.
